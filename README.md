@@ -1,6 +1,6 @@
 Changes the item outline color to whatever you want, specify an RGB value in the Config.ini
 
-#Installation
+# Installation
 - **Requirements**: This mod requires UE4SS for Oblivion Remastered.
 - **Download**: Download "OutlineColor.zip".
 - **Extract**: Extract the contents of the zip file.
